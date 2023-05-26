@@ -8,10 +8,10 @@ At Terrafarms, our mission is to provide farmers with the tools and technologies
 
 ## Our Solutions
 
-- **IoT-enabled Farming:** We integrate IoT sensors and devices to collect real-time data on soil conditions, weather patterns, and crop health. This data enables farmers to make informed decisions, optimize resource allocation, and prevent potential risks.
-- **AI-driven Crop Management:** Our AI algorithms analyze data collected from various sources to provide farmers with actionable insights for crop selection, pest control, and irrigation management. This helps farmers maximize yields, reduce costs, and minimize environmental impact.
-- **Market Access and Supply Chain Optimization:** Terrafarms facilitates seamless connections between farmers and buyers through our digital marketplace platform. We enable farmers to reach broader markets, ensure fair pricing, and streamline the supply chain for their agricultural produce.
-- **Farm Monitoring and Automation:** With our remote monitoring systems and automation solutions, farmers can remotely monitor and control farm operations, including irrigation, fertilization, and greenhouse environments. This enhances productivity, minimizes manual labor, and increases overall efficiency.
+- **AI Plant Disease Detection:** Our advanced AI algorithms analyze plant health data to detect and diagnose diseases accurately. This helps farmers take prompt action to prevent crop losses and maximize yields.
+- **Soil Detection and Analysis:** By utilizing sophisticated sensors and AI models, we offer precise soil detection and analysis services. This enables farmers to understand soil conditions better and optimize their crop selection accordingly.
+- **E-commerce Platform:** Through our digital marketplace, we connect farmers with buyers, facilitating fair pricing and market access for their agricultural produce. Farmers can showcase their products and reach a broader customer base.
+- **Farm Monitoring (IoT):** We integrate IoT sensors and devices to monitor various aspects of farm operations, including irrigation, temperature, and environmental conditions. This data-driven approach allows farmers to make informed decisions and optimize resource management.
 
 ## Join Us
 
