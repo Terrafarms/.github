@@ -1,10 +1,11 @@
-# Terrafarms
+# Terrafarms![terrafarms app icon](https://github.com/Terrafarms/.github/assets/54931717/ed511d2a-109a-42ff-914e-ffaec810527f)
 
 Terrafarms is an agricultural technology company that aims to revolutionize the farming industry through innovative solutions. We leverage cutting-edge technologies such as IoT (Internet of Things) and AI (Artificial Intelligence) to empower farmers, optimize agricultural practices, and drive sustainable growth.
 
 ## Our Mission
 
-At Terrafarms, our mission is to provide farmers with the tools and technologies they need to achieve higher yields, improve efficiency, and promote sustainability. We believe in harnessing the power of data-driven insights and advanced technologies to transform traditional farming methods into smart and efficient agricultural practices.
+At Terrafarms
+, our mission is to provide farmers with the tools and technologies they need to achieve higher yields, improve efficiency, and promote sustainability. We believe in harnessing the power of data-driven insights and advanced technologies to transform traditional farming methods into smart and efficient agricultural practices.
 
 ## Our Solutions
 
