@@ -22,6 +22,6 @@ For more information, please visit our [website](https://www.terrafarms.id) or c
 
 Follow us on social media:
 
-- [Twitter](https://twitter.com/terrafarms)
+- [Instagram](https://instagram.com/terrafarms.id)
 - [LinkedIn](https://www.linkedin.com/company/terrafarms.id)
-- [Facebook](https://www.facebook.com/terrafarms)
+
