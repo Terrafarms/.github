@@ -1,4 +1,4 @@
-![Terrafarms github header design-min](https://github.com/Terrafarms/.github/assets/66078837/b1647284-3d58-44a0-864f-df2dcbcda9c8)
+![Terrafarms github header design-min (1)](https://github.com/Terrafarms/.github/assets/66078837/c65a6b29-2db8-4ddf-85dd-e3a33ff2a7eb)
 
 
 Terrafarms is an agricultural technology company that aims to revolutionize the farming industry through innovative solutions. We leverage cutting-edge technologies such as IoT (Internet of Things) and AI (Artificial Intelligence) to empower farmers, optimize agricultural practices, and drive sustainable growth.
