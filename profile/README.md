@@ -19,7 +19,7 @@ At Terrafarms
 
 If you are passionate about technology, agriculture, and making a positive impact on the farming industry, we invite you to join our team at Terrafarms. Together, we can drive innovation, shape the future of farming, and contribute to a sustainable and food-secure world.
 
-For more information, please visit our [website](https://www.terrafarms.id) or contact us at [info@terrafarms.id](mailto:info@terrafarms.id). We look forward to connecting with you.
+For more information, please visit our [website](https://terrafarms.id) or contact us at [info@terrafarms.id](mailto:info@terrafarms.id). We look forward to connecting with you.
 
 Follow us on social media:
 
