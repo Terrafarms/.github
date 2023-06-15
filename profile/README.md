@@ -26,3 +26,8 @@ Follow us on social media:
 - [Instagram](https://instagram.com/terrafarms.id)
 - [LinkedIn](https://www.linkedin.com/company/terrafarms.id)
 
+
+## :calling: Download
+Go to the [Play Store](https://play.google.com/store/apps/details?id=com.terrafarms.terrafarms) to download the latest app.
+
+
