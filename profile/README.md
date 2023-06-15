@@ -10,8 +10,8 @@ At Terrafarms
 
 ## Our Solutions
 
-- **AI Plant Disease Detection:** Our advanced AI algorithms analyze plant health data to detect and diagnose diseases accurately. This helps farmers take prompt action to prevent crop losses and maximize yields.
-- **Soil Detection and Analysis:** By utilizing sophisticated sensors and AI models, we offer precise soil detection and analysis services. This enables farmers to understand soil conditions better and optimize their crop selection accordingly.
+- **AI Camera-based Detection:** Camera-based detection methods revolutionize agriculture by using computer vision to identify plant diseases and assess soil properties.
+- **Forum:** Forum platforms facilitate problem sharing, information access, resource collaboration, and empower farmers in the agricultural community.
 - **E-commerce Platform:** Through our digital marketplace, we connect farmers with buyers, facilitating fair pricing and market access for their agricultural produce. Farmers can showcase their products and reach a broader customer base.
 - **Farm Monitoring (IoT):** We integrate IoT sensors and devices to monitor various aspects of farm operations, including irrigation, temperature, and environmental conditions. This data-driven approach allows farmers to make informed decisions and optimize resource management.
 
